@@ -7,7 +7,7 @@ import java.util.Set;
 //SI LODE IMPORT TE APARECEN EN GRIS ES Q NO SE ESTAN
 //USANDO Y POR ENDE LOS PUEDO BORRAR
 
-
+//probando
 @Entity//Convierte la clase en una entidad orientada a objetos
 @Table
 @Getter @Setter //son DECORATORS Y SIRVEN PARA CREAR
